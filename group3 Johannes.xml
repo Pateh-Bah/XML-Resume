@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="group_3_style.css"?>
+<cv>
+<container>
+<subcontainer>
+
+<picture><text> <br/> <br/>Group 3</text></picture>
+
+<br/><br/><br/><br/><br/><br/>
+<header>Personal Details</header><br/> <br/>
+<address>Address: 14 Paw-Paw Road, Waterloo<br/></address>
+<phone>Phone: +23299590992<br/></phone>
+<email>Email: kanurocks46@gmail.com<br/><br/></email> 
+<id>LUCT ID: 905002423</id>
+
+<header><br/> <br/><br/> <br/>Skills</header><br/> <br/>
+<items>1. Graphic Designer (Photoshop,Illustrator) <br/>
+2. Business Promo Ads <br/>
+3. Animation maker<br/>
+4. Presentation templates designer <br/>
+5. Word document template writer <br/></items>
+</subcontainer>
+<subcontainer>
+<name> Mr. Johannes Musa Kanu</name> <br/> 
+<header>Education</header>
+
+<container>
+<subcontainer>
+<b>Date</b><br/>
+<tdata>
+2001- 2007  <br/>
+2007 - 2010 <br/>
+2010 - 2016 <br/> 
+</tdata>
+</subcontainer>
+<subcontainer><b>Institutes</b> <br/>
+<tdata> Methodist Primary School<br/>
+Saint Raphael's Secondary School<br/>
+Dele Peddle International High School<br/> 
+</tdata>
+</subcontainer>
+<subcontainer>
+<b>Level</b> <br/>
+Class 1 - class 6<br/>
+JSS 1 - JSS 3<br/>
+SSS 1 - SSS 4 <br/>
+</subcontainer>
+</container>
+<header>Experience</header>
+<container>
+<subcontainer>
+<b>Date</b>
+<br/>
+<tdata>
+2017- 2018
+<br/>
+2021-2022 
+</tdata>
+</subcontainer>
+<subcontainer><b>Institutes</b> <br/>
+Life After Diamonds, Kono <br/>
+Sierra Leone Chesterton Center 
+
+</subcontainer>
+<subcontainer>
+<b>Designation</b> <br/>
+Lead Researcher
+<br/>
+Field Fcilitator
+</subcontainer>
+</container>
+
+<header>Achievement</header>
+<container>
+<subcontainer>
+<b>Date</b>
+<br/>
+2007 <br/>
+2009 <br/>
+2018 <br/>
+<br/>
+<br/>
+</subcontainer>
+<subcontainer><b>Institutes</b> <br/>
+Emlizba Investment <br/>
+Access Media SL <br/>
+Daford Dio Centre <br/>
+<br/>
+<br/>
+</subcontainer>
+<subcontainer>
+<b>Certificate</b> <br/>
+Microsoft Package<br/>
+Graphic Design<br/>
+Animation<br/>
+<br/>
+</subcontainer>
+</container>
+<header>References</header><br/><br/><br/>
+1. Mr. Collins-Cole: Lecturer, at Limkokwing University of Creative Technology Sierra Leone <br/>
+
+</subcontainer>
+</container>
+
+
+</cv>
+

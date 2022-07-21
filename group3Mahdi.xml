@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="group_3_style.css"?>
+<cv>
+    <container>
+        <subcontainer>
+                <picture><text><br/> <br/>Group 3</text></picture>
+       <br/><br/><br/><br/><br/><br/>
+            
+            <header>Personal Details</header><br/> <br/>
+            <address>Address: 19F Spurview Estate Off Wilberforce Freetown<br/></address>
+            <phone>Phone: +23276952020<br/></phone>
+            <email>Email: linuxx27@gmail.com<br/></email> 
+            <id>LUCT ID: 905002251</id>
+            <header><br/><br/>Skills</header><br/><br/>
+            <items>
+                1. Network Engineer <br/>
+                2. System Analyst <br/>
+                3. UI and UX Design<br/>
+                4. Website Design <br/>
+                5. Cyber Security Analyst
+            </items>
+        </subcontainer>
+        <subcontainer>
+            <name> Mr. Mohamed Mahdi Bah</name> <br/> 
+            <header>Education</header>
+    
+         <container>
+            <subcontainer>
+            <b>Date</b><br/>
+            <tdata>
+                1997- 2003<br/>
+                2003 - 2007 <br/>
+                2007 - 2010 
+            </tdata>
+          </subcontainer>
+        <subcontainer><b>Institutes</b> <br/>
+            <tdata>
+                Pentecostal Primary School <br/>
+                International Islamic Secondary School <br/>
+                St Edwards Senior Secondary School
+            </tdata>
+        </subcontainer>
+        <subcontainer>
+            <b>Level</b> <br/>
+            Class 1 - class 6<br/>
+            JSS 1   - JSS 3 <br/>
+            SSS 1   - SSS 3
+        </subcontainer>
+    </container>
+
+            <header>Experience</header>
+    <container>
+            <subcontainer>
+            <b>Date</b>
+            <br/>
+            <tdata>
+                2014- 2017<br/>
+                2017-2019<br/>
+                2019-2020
+            </tdata>
+        </subcontainer>
+        <subcontainer><b>Institutes</b> <br/>
+            Quaker Peace Foundation <br/>
+            Tees Mall<br/>
+            Cockrill Perpartory and Junior Secondary School
+        </subcontainer>
+        <subcontainer>
+            <b>Designation</b> <br/>
+            Network Administrator <br/>
+            IT Technician<br/>
+            IT Teacher
+        </subcontainer>
+    </container>
+     <header>Achievement</header>
+    <container>
+        <subcontainer>
+        <b>Date</b>
+        <br/>
+        2012 <br/>
+        2018 <br/>
+        2018 <br/>
+        2018 <br/>
+        </subcontainer>
+        <subcontainer><b>Institutes</b> <br/>
+            Silicon Pro IT Training Center  <br/>
+            TrainingSoL IT Training Center <br/>
+            Njala University<br/>
+            Cousera
+        </subcontainer>
+        <subcontainer>
+            <b>Certificate</b> <br/>
+            CompTIA N+<br/>
+            CompTIA A+<br/>
+            HND Computer Hardware And Electronics<br/>
+            Google IT Support<br/>
+        </subcontainer>
+    </container>
+        <header>References</header> <br/> <br/>
+
+            1. Mr. Collins-Cole: Lecturer, at Limkokwing University of Creative Technology Sierra Leone <br/>
+            2. Mr. Dura Dauda Kamara: Founder  of Quaker Peace Foundation +23232952020 <br/>
+            3. Cousera: www.cousera.com<br/>
+        </subcontainer>
+    </container>
+</cv>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="./group_3_style.css"?>
+<cv>
+<container>
+<subcontainer>
+<picture><text><br/> <br/>Group 3</text></picture> <br/> <br/>
+
+<header>Personal Details</header><br/> <br/>
+<address>Address:New London Waterloo<br/></address>
+<phone>Phone: +23276351231<br/></phone>
+<email>Email: bahabdulrahim888@gmail.com<br/></email> 
+<id>LUCT ID: 905002579</id>
+<header><br/> <br/><br/> <br/>Skills</header><br/> <br/>
+<items>1. Web Developer (LAMP Stack 
+Developer) <br/>
+2. Windows Desktop developer <br/>
+3. SQL Database Administrator and 
+Developer<br/>
+4. Computer Hardware Technician <br/>
+5. Mobile Application Developer (Hybrid Application) <br/></items>
+</subcontainer>
+<subcontainer>
+<name> MR. ABDUL RAHIM BAH</name> <br/> 
+<header>Education</header>
+
+<container>
+<subcontainer>
+<b>Date</b><br/>
+<tdata>
+2000- 2004 
+<br/>
+2004 - 2007 <br/>
+2007 - 2010 <br/>
+2010 - 2014 
+</tdata>
+</subcontainer>
+<subcontainer><b>Institutes</b> <br/>
+<tdata> DEC Gbindi Primary School <br/>
+DEC Gbindi Primary School <br/>
+Ahmadiyya Junior Secondary School  <br/>
+Korea Presbyterian Senior Secondary School 
+</tdata>
+</subcontainer>
+<subcontainer>
+<b>Level</b> <br/>
+Infantry - class 3<br/>
+Class 4 - Class 6 <br/>
+JSS 1   - JSS 3 <br/>
+SSS 1   - SSS 4
+</subcontainer>
+</container>
+<header>Experience</header>
+<container>
+<subcontainer>
+<b>Date</b>
+<br/>
+<tdata>
+2018- 2020
+<br/>
+2020-2021 
+</tdata>
+</subcontainer>
+<subcontainer><b>Institutes</b> <br/>
+American College of Science and Technology <br/>
+Sensi Innovation Tech Hub 
+
+</subcontainer>
+<subcontainer>
+<b>Designation</b> <br/>
+Web Developer 
+<br/>
+IT Technician
+</subcontainer>
+</container>
+
+<header>Archivement</header>
+<container>
+<subcontainer>
+<b>Date</b>
+<br/>
+2011 <br/>
+2017 <br/>
+2017 <br/>
+2017 <br/>
+</subcontainer>
+<subcontainer><b>Institutes</b> <br/>
+Katakan Children Martial Art Academy  <br/>
+Solo Learn Academy <br/>
+Solo Learn Academy <br/>
+Solo Learn Academy <br/>
+</subcontainer>
+<subcontainer>
+<b>Certificate</b> <br/>
+Red Belt<br/>
+HTML<br/>
+PHP<br/>
+JQUERY
+</subcontainer>
+</container>
+<header>References</header> <br/> <br/>
+1. Mr. Collins-Cole: Lecturer, at Limkokwing University of Creative Technology Sierra Leone <br/>
+2. Mr. Ibrahim Kandeh Kamara: Lecturer +23279160036 at 
+American College of Science and Technology <br/>
+3. Sololearn Academy: www.sololearn.com /info@sololearn.com <br/>
+4. Sensi Idrissa Marshall: Katakan Children Martial Art Academy 
++2327726348
+</subcontainer>
+</container>
+
+
+</cv>
+

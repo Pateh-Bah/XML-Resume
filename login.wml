@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="login_style.css"?>
+<wml>
+<card id="card1" title="GROUP 3 PRESENTATION">
+<p><b>  GROUP 3 Login  </b></p>  
+            <do type="unknown" label="LOGIN">   <go href="#card2"/>   </do>
+</card>
+ <card id="card2" title="LOGIN">
+<!--<onevent Type="ontimer">       </onevent>        <Timer value ="300"/> -->
+<p align="center">
+<p align="center"><b>  GROUP 3 LOGIN  </b></p>
+<p align="center">
+<b>Username:</b> <input type="text" name="username"/> <br/> <br/>
+<b>Password:</b> <input type="password" name="password"/>
+
+ <br/> <br/>
+<do type="unknown" label="login">   <go href="#card3"/>     </do>
+</p>
+</p>
+ </card>
+<card id="card3" title="Data">
+<p align="center"><b>  GROUP 3 LOGIN DETAILS  </b> <br/> <br/>
+     Your UserName is:  <b> $username </b>  <br/> <br/>           
+     Your Password is:     <b> $password </b> <br/> <br/>        
+
+<do type="unknown" label="Open Group 3 RESUME">   <go href="./group3_Ibrahim_Pateh_Bah.xml"/>   </do>
+</p>
+</card>
+
+</wml>
