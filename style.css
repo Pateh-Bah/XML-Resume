@@ -1,19 +1,22 @@
 container {
     display: flex;
-    width: auto;   
-   }
+    width: auto;
+  }
   container > subcontainer {
     background-color: #100b0b;
     margin: 10px;
     padding: 10px;
     width: auto;
-    color: orangered;    
- }
+    color: orangered;
+  }
   hr{
     width: 90px;
     height: 30px ;
-    color: teal;     
- }
+    color: teal;
+  }
+  center{
+    align-items: center;
+  }
   picture{
     background-color: black;
     border: 2px solid orangered;
@@ -22,12 +25,12 @@ container {
     width: 55px;
     height: 50px;
     margin-left: 100px;
-    padding: 40px;   
- }
+    padding: 40px;
+  }
    text{
     color:white;
     padding: 80% 0% 0% 0%;
-    margin-top: 90%;   
+    margin-top: 90%;
    }
   header{
     font-family: Tahoma ;
@@ -35,19 +38,23 @@ container {
     color: white;
     display: block;
     text-decoration:solid underline;
-    font-weight: bolder;     }
-  br{     display: block;
-    height: 5px;  }
-  container > trow{  
-    font-weight: bold;  }
-
-  b { font-weight: bolder;  
- }
-  name{  text-align: center;
+    font-weight: bolder;
+  }
+  br{
+    display: block;
+    height: 5px;
+  }
+  container > trow{
+    font-weight: bold;
+  }
+  b{
+    font-weight: bolder;
+  }
+  name{
+    text-align: center;
     font-size: larger;
     font-weight: bolder;
     font-family: Tahoma;
     margin: 8% 0% 5% 30%;
-    color: white; 
- }
-  
+    color: white;
+  }
