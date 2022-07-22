@@ -3,12 +3,14 @@ container {
     width: auto;
   }
   container > subcontainer {
-    background-color: #100b0b;
+  
+    background-color: #fff5d7;
     margin: 10px;
     padding: 10px;
     width: auto;
-    color: orangered;
+    color: black;
   }
+  
   hr{
     width: 90px;
     height: 30px ;
@@ -18,26 +20,30 @@ container {
     align-items: center;
   }
   picture{
-    background-color: black;
-    border: 2px solid orangered;
+    background-color: #ff414e;
+    border: 5px solid white;
     border-radius: 60%;
     display: inline-block;
-    width: 55px;
+    width: 60px;
     height: 50px;
-    margin-left: 100px;
+    margin-left: 50px;
     padding: 40px;
+    margin-top: 25px;
   }
    text{
-    color:white;
+    color:#fff5d7;
     padding: 80% 0% 0% 0%;
-    margin-top: 90%;
+    margin-top: 100%;
+    font-weight: bolder;
    }
+  
+  
   header{
     font-family: Tahoma ;
     font-size: 20px;
-    color: white;
-    display: block;
-    text-decoration:solid underline;
+    color: #ff5e6c;
+    display: black;
+    text-decoration:underline;
     font-weight: bolder;
   }
   br{
@@ -46,6 +52,7 @@ container {
   }
   container > trow{
     font-weight: bold;
+  
   }
   b{
     font-weight: bolder;
@@ -56,5 +63,5 @@ container {
     font-weight: bolder;
     font-family: Tahoma;
     margin: 8% 0% 5% 30%;
-    color: white;
+    color: solid black;
   }
